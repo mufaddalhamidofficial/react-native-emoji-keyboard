@@ -31,7 +31,7 @@
         "emoji-datasource": "^5.0.1",
         "lodash": "^4.17.15",
         "prop-types": "^15.7.2",
-        "react-native-scrollable-tab-view": "git://github.com/frankfancode/react-native-scrollable-tab-view.git",
+        "react-native-scrollable-tab-view": "git://github.com/mufaddalhamidofficial/react-native-scrollable-tab-view.git",
         "string.fromcodepoint": "^0.2.1"
     },
     "jest": {
