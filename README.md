@@ -9,7 +9,8 @@ React Native Emoji Board is a customizable component similar to native keyboard 
 ## Installation
 
 1.  `npm i mufaddalhamidofficial/react-native-emoji-keyboard`
-2.  `yarn add react-native-vector-icons` if you don't have it
+2.  `npm i react-native-pager-view`
+3.  `npm i react-native-vector-icons` if you don't have it
 
 ## Linking
 **>= 0.60**
